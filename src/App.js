@@ -7,7 +7,7 @@
  * @FilePath: /react-hooks-practice/src/App.js
  */
 import React, { Component, useState } from 'react'
-import Page  from './page/rematch'
+// import Page  from './page/rematch'
 // import Page  from './page/hooks/useReducer'
 // import Page  from './page/hooks/useCallback'
 // import Page  from './page/hooks/useMemo'
@@ -18,7 +18,9 @@ import Page  from './page/rematch'
 // import Page  from './page/HOC/letterReverse'
 // import Page  from './page/HOC/containerC'
 // import Page  from './page/HOC/avoidUpdate'
-// import Page  from './page/react/demo4'
+
+// import Page  from './page/react/debounce'
+import Page  from './page/react/throttle'
 
 
 
