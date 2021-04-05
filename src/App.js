@@ -20,7 +20,9 @@ import React, { Component, useState } from 'react'
 // import Page  from './page/HOC/avoidUpdate'
 
 // import Page  from './page/react/debounce'
-import Page  from './page/react/throttle'
+// import Page  from './page/react/throttle'
+
+import Page  from './page/react/react-hooks/demo1'
 
 
 
