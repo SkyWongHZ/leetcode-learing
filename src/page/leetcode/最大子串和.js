@@ -28,7 +28,8 @@
 
 // 1 <= nums.length <= 3 * 104
 // -105 <= nums[i] <= 105
-const nums = [-2,1,-3,4,-1,2,1,-5,4]
+// const nums = [-2,1,-3,4,-1,2,1,-5,4]
+const nums=[-23 ,17 ,-7, 11 ,-2, 1, -34]
 
 const maxSubArray=(nums)=>{
    for(let i=0;i<nums.length;i++){
