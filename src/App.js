@@ -24,7 +24,7 @@ import React, { Component, useState } from 'react'
 
 import Page  from './page/react/react-hooks/demo1'
 
-
+console.log('test');
 
 export default  ()=> {
   const [text, setText] = useState(0)
